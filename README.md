@@ -3,6 +3,7 @@
 
 ## profile 
 name: jung yujin  
-birth: 2000.0828 
+birth: 2000.0828
 
-  major: Business management  
+
+major: Business management  
