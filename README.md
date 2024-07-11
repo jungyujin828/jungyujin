@@ -3,6 +3,7 @@
 
 ## profile 
 name: jung yujin
+
 birth: 2000.0828
 
 
